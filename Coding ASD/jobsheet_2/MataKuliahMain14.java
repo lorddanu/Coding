@@ -18,7 +18,7 @@ public class MataKuliahMain14 {
         mk2.tampilkanInformasi();
         mk2.ubahSKS(2);
         mk2.tambahJam(1);
-        mk2.kurangiJam(10);
+        mk2.kurangiJam(10); //hitungan yang salah sehingga tidak bisa mengurangi jam
         mk2.tampilkanInformasi();
     }
 }
